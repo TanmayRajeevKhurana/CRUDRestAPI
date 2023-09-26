@@ -1,5 +1,7 @@
 # CRUD Rest API for Movie Management
 
+
+
 A simple Node.js CRUD (Create, Read, Update, Delete) REST API for managing movies. This API allows you to perform basic operations on a collection of movies, including listing all movies, retrieving a specific movie by its UUID, adding new movies, updating existing movies, and deleting movies.
 
 ## Table of Contents
@@ -42,7 +44,7 @@ Before you begin, ensure you have met the following requirements:
 ## Usage
 
 To start the CRUD Rest API server, run the following command:
-  <p> ```bash
+   
     
     npm start
 
